@@ -66,3 +66,10 @@ All four public downloads (PDF and ZIP from GitHub Release and Zenodo) were dire
 Copyright (c) 2026 Ryutaro Yonezu. **All rights reserved.** See [LICENSE](LICENSE). Public availability does not grant an additional reuse license. Third-party works retain their respective rights.
 
 This repository-level README and LICENSE were added after the v1.0 release as publication metadata. The released PDF, reproducibility ZIP, v1.0 tag and Zenodo deposit are unchanged.
+
+## Author correspondence (metadata update, 2026-11-12)
+
+**Ryutaro Yonezu — Independent Researcher**  
+Research correspondence: **yonezaemon1+research@gmail.com**
+
+This contact-information addition does not revise any mathematical claims, frozen verification files, published preprint PDF, release assets, DOI, or existing SHA256 checksums.
